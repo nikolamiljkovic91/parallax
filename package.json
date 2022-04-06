@@ -1,0 +1,17 @@
+{
+  "name": "parallax",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.49.9",
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
